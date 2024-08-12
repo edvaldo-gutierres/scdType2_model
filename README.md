@@ -153,11 +153,10 @@ scd_manager.manage_scd_table(
 
 ## Contribuição
 
-Contribuições são bem-vindas! Se você encontrar algum problema ou tiver sugestões de melhorias, sinta-se à vontade para abrir uma _issue_ ou enviar um _pull request_.
+Contribuições são bem-vindas! Se você encontrar algum problema ou tiver sugestões de melhorias, sinta-se à vontade para abrir uma _issue_.
+
 
 ## Licença
-
 Este projeto é licenciado sob os termos da licença MIT. Consulte o arquivo LICENSE para mais detalhes.
-```
 
-Esse `README.md` foi ajustado para refletir o uso do `SCDManager` no ambiente Databricks, garantindo que as instruções e exemplos estejam alinhados com as práticas comuns nesse ambiente.
+
